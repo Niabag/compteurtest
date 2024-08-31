@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/CryptoMoon/static/css/main.1529ae63.css",
-    "main.js": "/CryptoMoon/static/js/main.89610fa7.js",
-    "index.html": "/CryptoMoon/index.html",
-    "main.1529ae63.css.map": "/CryptoMoon/static/css/main.1529ae63.css.map",
-    "main.89610fa7.js.map": "/CryptoMoon/static/js/main.89610fa7.js.map"
+    "main.css": "/compteurtest/static/css/main.1529ae63.css",
+    "main.js": "/compteurtest/static/js/main.89610fa7.js",
+    "index.html": "/compteurtest/index.html",
+    "main.1529ae63.css.map": "/compteurtest/static/css/main.1529ae63.css.map",
+    "main.89610fa7.js.map": "/compteurtest/static/js/main.89610fa7.js.map"
   },
   "entrypoints": [
     "static/css/main.1529ae63.css",

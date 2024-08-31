@@ -5,11 +5,7 @@ import Home from './pages/Home'
 
 ReactDOM.render(
   <div className="align-page">
-    <BrowserRouter>
-      <Routes>
-        <Route path="/kasa" element={<Home />} />
-      </Routes>
-    </BrowserRouter>
+        <Home />
   </div>,
   document.getElementById('root')
 )

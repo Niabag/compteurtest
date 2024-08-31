@@ -1,0 +1,60 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f4f4f4;
+}
+
+.wrapper-time{
+  width: 100px;
+  height: 70px;
+  margin-left: 20px;
+  border: 1px solid black;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1), 0 6px 20px rgba(0, 0, 0, 0.1);
+  border-radius: 15px;
+  background: black;
+}
+
+.wrapper-time p{
+  color: rgb(108, 176, 236);
+  font-weight: bold;
+}
+
+.wrapper {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.container {
+  text-align: center;
+}
+
+.container h1{
+  color: #007bff;
+  font-weight: bold;
+  font-size: 60px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  margin-top: 20px;
+}
+
+button:hover {
+  background-color: #0056b3;
+}

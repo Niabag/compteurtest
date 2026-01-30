@@ -4,7 +4,13 @@
       "Bash(npm start)",
       "Bash(timeout:*)",
       "Bash(dir /s /b \"C:\\\\Users\\\\Utilisateur\")",
-      "Bash(findstr:*)"
+      "Bash(findstr:*)",
+      "Bash(git -C \"c:/Users/Utilisateur/Documents/GitHub/compteurtest\" status)",
+      "Bash(git -C \"c:/Users/Utilisateur/Documents/GitHub/compteurtest\" ls-files --others --exclude-standard)",
+      "Bash(git -C \"c:/Users/Utilisateur/Documents/GitHub/compteurtest\" diff HEAD)",
+      "Bash(git -C \"c:/Users/Utilisateur/Documents/GitHub/compteurtest\" ls-files:*)",
+      "Bash(git -C \"c:/Users/Utilisateur/Documents/GitHub/compteurtest\" log -1 --name-only)",
+      "Bash(git -C \"c:/Users/Utilisateur/Documents/GitHub/compteurtest\" status -sb)"
     ]
   }
 }
